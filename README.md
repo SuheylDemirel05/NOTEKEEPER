@@ -27,7 +27,7 @@ This project is built using the following technologies:
 - 🎨 **CSS3**  
 - ⚙️ **JavaScript (Vanilla JS)**
 
-## 📸 Demo
+## 📸 Prewiev
 
 ![2025-05-2217-39-13-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b10cea56-62af-49d0-905f-aa82918dae6b)
 
