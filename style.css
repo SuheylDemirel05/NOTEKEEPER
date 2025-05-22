@@ -21,6 +21,7 @@ body {
     #ffcc70 100%
   );
   min-height: 100vh;
+  overflow: scroll;
 }
 
 /* Wrapper */
